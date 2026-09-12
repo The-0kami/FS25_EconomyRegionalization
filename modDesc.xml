@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="107">
+    <author>W0lf</author>
+    <version>1.0.0.0</version>
+
+    <title>
+        <en>Economy Regionalization</en>
+        <de>Wirtschaftsregionalisierung</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Applies a regional economy presentation profile for multiplayer sessions. Requires Additional Currencies.]]></en>
+        <de><![CDATA[Wendet ein regionales Wirtschaftsprofil für Mehrspieler-Sitzungen an. Benötigt Additional Currencies.]]></de>
+    </description>
+
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+
+    <dependencies>
+        <dependency>FS25_additionalCurrencies</dependency>
+    </dependencies>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/EconomyRegionalization.lua"/>
+    </extraSourceFiles>
+</modDesc>
