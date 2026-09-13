@@ -1,0 +1,11 @@
+{
+  "id": "FS25_ExampleMod",
+  "displayName": "Example Mod",
+  "sourceType": "mirror",
+  "originalPage": "https://example.invalid/mod-page",
+  "releaseTag": "depot-YYYY-MM",
+  "assetName": "FS25_ExampleMod.zip",
+  "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/depot-YYYY-MM/FS25_ExampleMod.zip",
+  "redistributionChecked": false,
+  "notes": "Set redistributionChecked to true only after permission/license has been verified."
+}
