@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "name": "Agriculture Science Mod Depot",
+  "description": "External mod storage for the Bauer von Nebenan launcher.",
+  "mods": [
+    {
+      "id": "FS25_EconomyRegionalization",
+      "displayName": "Economy Regionalization",
+      "sourceType": "own",
+      "status": "active",
+      "notes": "Existing one-off companion mod. Keep separate from mirrored third-party content."
+    }
+  ]
+}
