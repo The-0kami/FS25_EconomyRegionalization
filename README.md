@@ -1,22 +1,40 @@
-# FS25_EconomyRegionalization
+# Agriculture Science Mod Depot
 
-A tiny one-off multiplayer companion mod for **FS25_additionalCurrencies**.
+Dieses Repository dient als kleiner externer Mod-Speicher fuer den **Bauer von Nebenan / Agriculture Science Launcher**.
 
-## What it does
+Die eigentlichen Mod-ZIPs sollen nach Moeglichkeit als **GitHub Release Assets** abgelegt werden. Das Repository selbst enthaelt nur Metadaten, Hinweise und ggf. eigene Quelltexte.
 
-- Finds the Swiss Franc entry by its `CHF` symbol (no hard-coded currency index).
-- Enables the Additional Currencies converter.
-- Uses a fixed runtime conversion factor of `0.93`.
-- Applies CHF to all clients that load the server's mod set.
-- Locks currency/converter controls while active.
-- Preserves each player's original Additional Currencies settings on disk.
+## Zweck
 
-## Removal
+- Mods aus Quellen bereitstellen, die der Launcher nicht direkt aufloesen kann.
+- Direkte, stabile Download-URLs fuer `master_mods.txt` bereitstellen.
+- Fremde Hoster-spezifische Logik aus dem Launcher fernhalten.
+- Eigene One-Off-/Troll-Mods koennen weiterhin hier liegen.
 
-Disable/remove `FS25_EconomyRegionalization` from the server mod set and restart. Additional Currencies will load each player's previously stored settings again.
+## Struktur
 
-## Requirement
+- `depot.json` – optionale Uebersicht ueber Depot-Eintraege.
+- `templates/mod-entry.example.json` – Vorlage fuer neue Eintraege.
+- Release Assets – eigentliche ZIP-Dateien.
+- Bestehende Dateien von `FS25_EconomyRegionalization` bleiben vorerst erhalten.
 
-- `FS25_additionalCurrencies` 1.0.0.2 (or a compatible later version)
+## Empfohlener Ablauf
 
-The original Additional Currencies files are not redistributed or modified.
+1. Mod-ZIP lokal beschaffen.
+2. Vor dem Spiegeln pruefen, ob die Weiterverteilung erlaubt ist.
+3. Neues GitHub Release oder bestehendes Depot-Release verwenden.
+4. ZIP als Release Asset hochladen.
+5. Direkte Release-Asset-URL in `master_mods.txt` des Launchers eintragen.
+6. Optional den Eintrag auch in `depot.json` dokumentieren.
+
+## Beispiel fuer `master_mods.txt`
+
+```text
+https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/depot-2026-09/FS25_BeispielMod.zip
+```
+
+## Bestehende eigene Mod
+
+`FS25_EconomyRegionalization` bleibt eine eigene kleine One-Off-Mod fuer `FS25_additionalCurrencies` und kann hier weiterhin mitverwaltet werden.
+
+> AGRICULTURE SCIENCE: Externe Modversorgung. Offiziell genehmigte Feldversuche seit vermutlich eben gerade.
