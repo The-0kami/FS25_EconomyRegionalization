@@ -9,6 +9,15 @@
       "sourceType": "own",
       "status": "active",
       "notes": "Existing one-off companion mod. Keep separate from mirrored third-party content."
+    },
+    {
+      "id": "FS25_Schneidwerklager_WobbyTec",
+      "displayName": "Schneidwerklager",
+      "sourceType": "release-asset",
+      "status": "active",
+      "releaseTag": "depot-2026-09",
+      "fileName": "FS25_Schneidwerklager_WobbyTec.zip",
+      "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/depot-2026-09/FS25_Schneidwerklager_WobbyTec.zip"
     }
   ]
 }
