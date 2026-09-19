@@ -34,10 +34,10 @@
       "displayName": "A.P.S. - Automated Parking Sequence",
       "sourceType": "repository-file",
       "status": "active",
-      "version": "0.1.0.8",
+      "version": "0.1.0.9",
       "fileName": "FS25_APS_AgricultureScience.zip",
       "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_APS_AgricultureScience.zip",
-      "sha256": "5504c50ec206318c9148566c673e4a296c4806a72ef91aa045f5b05b40d2d535"
+      "sha256": "fbcd5234e509f65bb3cfc3619222bc7edc3f434c005e220765e0e73d9df41a91"
     }
   ]
 }
