@@ -1,0 +1,31 @@
+name: SmartGate Inspect
+
+on:
+  push:
+    paths:
+      - '.github/workflows/smartgate_inspect.yml'
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect SmartGate package
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/smartgate
+          mkdir -p /tmp/smartgate
+          unzip -q FS25_SmartGate_AgricultureScience.zip -d /tmp/smartgate
+          echo '=== FILE TREE ==='
+          find /tmp/smartgate -maxdepth 4 -type f -printf '%P\n' | sort
+          echo '=== TEXT FILES ==='
+          while IFS= read -r f; do
+            case "$f" in
+              *.lua|*.xml|*.txt)
+                echo
+                echo "===== $f ====="
+                cat "$f"
+                ;;
+            esac
+          done < <(find /tmp/smartgate -type f | sort)
