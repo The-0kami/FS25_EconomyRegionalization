@@ -24,10 +24,10 @@
       "displayName": "Smart Gate - Agriculture Science",
       "sourceType": "repository-file",
       "status": "active",
-      "version": "0.1.0.9",
+      "version": "0.1.2.0",
       "fileName": "FS25_SmartGate_AgricultureScience.zip",
       "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_SmartGate_AgricultureScience.zip",
-      "sha256": "d8e332f83e5044626a7f07b42becc32d3fd57b542b033d3c98485fce1af30d1b"
+      "sha256": "b93e5c43110cc0fc640b9a371513163f3a4a45ca943efa6f2d8f17ce8c184180"
     },
     {
       "id": "FS25_APS_AgricultureScience",
