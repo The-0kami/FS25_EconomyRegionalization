@@ -39,6 +39,16 @@
       "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/Aps_v0.1.3.1/FS25_APS_AgricultureScience.zip",
       "sha256": "e706352cdc457854b8acb012b658bd0cee0db4718321c865572ebdde6a03df1c",
       "releaseTag": "Aps_v0.1.3.1"
+    },
+    {
+      "id": "FS25_CruiseControlIntegritySystem",
+      "displayName": "Cruise Control Integrity System",
+      "sourceType": "repository-file",
+      "status": "active",
+      "version": "0.1.0.0",
+      "fileName": "FS25_CruiseControlIntegritySystem.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_CruiseControlIntegritySystem.zip",
+      "sha256": "52b04e79a20098be512688639c4d6ca8a3648cc52ad5f9f4da4d5ec46e33754a"
     }
   ]
 }
