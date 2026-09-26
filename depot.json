@@ -34,11 +34,11 @@
       "displayName": "A.P.S. - Automated Parking Sequence",
       "sourceType": "release-asset",
       "status": "active",
-      "version": "0.1.3.1",
+      "version": "0.1.3.2",
       "fileName": "FS25_APS_AgricultureScience.zip",
-      "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/Aps_v0.1.3.1/FS25_APS_AgricultureScience.zip",
-      "sha256": "e706352cdc457854b8acb012b658bd0cee0db4718321c865572ebdde6a03df1c",
-      "releaseTag": "Aps_v0.1.3.1"
+      "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/Aps_v0.1.3.2/FS25_APS_AgricultureScience.zip",
+      "sha256": "b2078932be174adf58ae0ced82f76e830ef797cf447bb9e17bae94a497d97c30",
+      "releaseTag": "Aps_v0.1.3.2"
     },
     {
       "id": "FS25_CruiseControlIntegritySystem",
