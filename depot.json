@@ -24,10 +24,10 @@
       "displayName": "Smart Gate - Agriculture Science",
       "sourceType": "repository-file",
       "status": "active",
-      "version": "0.1.2.0",
+      "version": "0.1.2.2",
       "fileName": "FS25_SmartGate_AgricultureScience.zip",
       "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_SmartGate_AgricultureScience.zip",
-      "sha256": "67f415c00541b0ea3806333c3b826f7be4483dbe6089c50ba4ec0356229ba7db"
+      "sha256": "f648dabd3701b1cd4050e34b36b75e5b485e76eda752dd096124778f3d2c5fba"
     },
     {
       "id": "FS25_APS_AgricultureScience",
@@ -45,10 +45,10 @@
       "displayName": "Cruise Control Integrity System",
       "sourceType": "repository-file",
       "status": "active",
-      "version": "0.1.0.0",
+      "version": "0.1.0.1",
       "fileName": "FS25_CruiseControlIntegritySystem.zip",
       "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_CruiseControlIntegritySystem.zip",
-      "sha256": "89ef9c63d48798ec4e6962db4029e28a743cfebe6bb6e321a5367be4ae521f54"
+      "sha256": "9a5fd2603e50cce51afc0819005013512ddfddb1537ad42559e058631e2a002f"
     }
   ]
 }
