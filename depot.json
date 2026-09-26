@@ -24,21 +24,21 @@
       "displayName": "Smart Gate - Agriculture Science",
       "sourceType": "repository-file",
       "status": "active",
-      "version": "0.1.2.2",
+      "version": "0.1.2.4",
       "fileName": "FS25_SmartGate_AgricultureScience.zip",
       "downloadUrl": "https://raw.githubusercontent.com/The-0kami/FS25_EconomyRegionalization/main/FS25_SmartGate_AgricultureScience.zip",
-      "sha256": "f648dabd3701b1cd4050e34b36b75e5b485e76eda752dd096124778f3d2c5fba"
+      "sha256": "903517b3efc6dc162ee9aa31203343b62154a4eb2f7d053853ae3d27f0863d31"
     },
     {
       "id": "FS25_APS_AgricultureScience",
       "displayName": "A.P.S. - Automated Parking Sequence",
       "sourceType": "release-asset",
       "status": "active",
-      "version": "0.1.3.2",
+      "version": "0.1.3.4",
       "fileName": "FS25_APS_AgricultureScience.zip",
-      "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/Aps_v0.1.3.2/FS25_APS_AgricultureScience.zip",
-      "sha256": "b2078932be174adf58ae0ced82f76e830ef797cf447bb9e17bae94a497d97c30",
-      "releaseTag": "Aps_v0.1.3.2"
+      "downloadUrl": "https://github.com/The-0kami/FS25_EconomyRegionalization/releases/download/Aps_v0.1.3.4/FS25_APS_AgricultureScience.zip",
+      "sha256": "e94ab62ccdb39a33dbf88d23aec554086c97a0537c0e75d1dd7f002ef3d65aaa",
+      "releaseTag": "Aps_v0.1.3.4"
     },
     {
       "id": "FS25_CruiseControlIntegritySystem",
