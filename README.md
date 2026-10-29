@@ -87,9 +87,6 @@ Diese Preview enthält einen **experimentellen Resume-Zusatz**, der Stillstände
 
 Erste erfolgreiche Singleplayer-Tests liegen vor. Eine allgemeine Kompatibilitäts- oder Dedicated-Server-Garantie besteht nicht.
 
-## Noch nicht enthalten
-
-Das geplante Mass Maintenance Protocol, eine vollständige Service-Warteschlange, DevTools, zusätzliche private Voicepacks, Ordis-/Warframe-Medien und echte wirtschaftliche Ticketabrechnungen sind kein Bestandteil dieser Preview.
 
 ## Downloads und Prüfsummen
 
